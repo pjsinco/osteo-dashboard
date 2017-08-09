@@ -1,0 +1,38 @@
+[
+  {
+    "aoa_id": "234099",
+    "cme_facets": [
+      {
+        "type": "General",
+        "earned": 78.5,
+        "required": 120.0,
+      },
+      {
+        "type": "Cat1A",
+        "earned": 31.5,
+        "required": 0.0,
+      },
+    ]
+  },
+
+
+]
+
+[
+  { 
+    "primary": "Otolaryngology", 
+    "subs": ["Otolaryngic Allergy", "Sleep Medicine"]
+  }, 
+  {
+    "primary": "Neuromusculoskeletal Medicine & OMM", 
+    "subs": ["Pain Medicine", "Sports Medicine"]
+  }, 
+  {
+    "primary": "Otorhinolaryngology", 
+    "subs": []
+  }, 
+  {
+    "primary": "Internal Medicine", 
+    "subs": ["Pulmonary Diseases", "Infectious Diseases", "Sports Medicine"]
+  }
+]
