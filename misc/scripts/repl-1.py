@@ -167,9 +167,21 @@ while len(l) < 3:
     l.append(0)
 
 
-scene = [{'primary': 'Facial Plastic Surgery', 'subs': ['Sleep Medicine', 'Otolaryngic Allergy']}, {'primary': 'Otorhinolaryngology', 'subs': []}, {'primary': 'Otolaryngology', 'subs': []}]
+scenes = [{'primary': 'Facial Plastic Surgery', 'subs': ['Sleep Medicine', 'Otolaryngic Allergy']}, {'primary': 'Otorhinolaryngology', 'subs': []}, {'primary': 'Otolaryngology', 'subs': []}]
 
-[s for s in scene]
+
+', '.join(["foo", "bar", "baz"])
+
+randint(0, 1)
+
+from collections import OrderedDict
+
+d = OrderedDict()
+
+d['foo'] = 'bar'
+    
+d
+
 
 
 

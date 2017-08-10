@@ -29,6 +29,37 @@ specialties = [
     "total_required": 120,
     "cat1a_required": False
   }, 
+  { "board": "Emergency Medicine",
+    "primaries": [
+      "Emergency Medicine"
+    ],
+    "subs": [
+      "Emergency Medical Services",
+      "Medical Toxicology",
+      "Sports Medicine",
+      "Undersea and Hyperbaric Medicine",
+    ],
+    "total_required": 150,
+    "cat1a_required": False
+  },
+  { "board": "Family Medicine",
+    "primaries": [
+      "Family Medicine/OMT",
+    ],
+    "subs": [
+      "Addiction Medicine",
+      "Adolescent & Young Adult Medicine*",
+      "Correctional Medicine",
+      "Geriatric Medicine",
+      "Hospice and Palliative Medicine",
+      "Pain Medicine",
+      "Sleep Medicine",
+      "Sports Medicine",
+      "Undersea and Hyperbaric Medicine"
+    ],
+    "total_required": 150,
+    "cat1a_required": True
+  },
   { "board": "Neuromusculoskeletal Medicine",
     "primaries": [
       "Neuromusculoskeletal Medicine & OMM"
